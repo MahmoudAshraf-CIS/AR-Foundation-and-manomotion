@@ -1,3 +1,9 @@
+# Demo
+[![Watch the video](https://img.youtube.com/vi/K7BT6X5mHjc/maxresdefault.jpg)](https://youtu.be/K7BT6X5mHjc)
+
+Tested on Unity 2019.3.9f1 , integerated with https://www.manomotion.com/products/ SDK LITE & AR FOUNDATION
+
+
 # AR Foundation Samples
 
 Example projects that use [*AR Foundation 4.0*](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.0/manual/index.html) and demonstrate its functionality with sample assets and components.
